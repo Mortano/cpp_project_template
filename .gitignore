@@ -39,3 +39,6 @@ build/debug/*
 include/*
 lib/*
 bin/*
+
+# Keep .git-keep files
+!.git-keep
